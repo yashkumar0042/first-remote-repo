@@ -1,2 +1,0 @@
-hi my name is yash
-i am your trainer for aws devops
